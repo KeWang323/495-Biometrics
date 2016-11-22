@@ -1,0 +1,4 @@
+%%%%%%run.m%%%%%%
+clear,clc;
+runPCAtraining
+runPCAtesting
